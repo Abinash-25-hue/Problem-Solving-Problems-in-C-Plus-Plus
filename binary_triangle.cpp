@@ -9,7 +9,7 @@ Output :
 00
 1
 
-Time Taken : 9 mins 13.10 seconds*/
+*/
 
 #include<iostream>
 using namespace std;
