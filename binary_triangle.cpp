@@ -1,6 +1,7 @@
 /* Print the following pattern for the given number of rows. 
 
 Input : 5
+
 Output : 
 11111
 0000
