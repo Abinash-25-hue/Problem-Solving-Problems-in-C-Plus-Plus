@@ -11,7 +11,7 @@ EEEEE
 FFFFFF
 GGGGGGG
 
-Time Taken : 5 mins 28.07 seconds */
+*/
 
 #include<iostream>
 using namespace std;
