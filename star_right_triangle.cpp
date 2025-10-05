@@ -8,7 +8,7 @@ Output :
 * * 
 *
 
-Time taken : 6 min and 42.51 seconds*/
+*/
 
 #include<iostream>
 using namespace std;
